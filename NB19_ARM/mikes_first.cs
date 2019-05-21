@@ -4,7 +4,8 @@ public class Mikes_First
 {
 	public Mikes_First()
 	{
-        Console.WriteLine("Tjabba NB19_ARM!!!");
-        Console.ReadKey("Hejdå!");
+        ConsoleKeyInfo myText = Console.ReadKey();
+        Console.WriteLine("Rolf har ändrat den här texten.");
+        Console.WriteLine("jag kan också ändra"); 
 	}
 }
