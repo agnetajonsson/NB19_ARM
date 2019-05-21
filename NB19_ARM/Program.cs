@@ -7,7 +7,8 @@ namespace NB19_ARM
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hej, Hej från Agneta");
+            Console.WriteLine("Hej igen från Agneta");
+            Console.WriteLine(HejHej från Mike);
         }
 
     }
